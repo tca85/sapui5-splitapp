@@ -1,0 +1,72 @@
+[{
+		"category": "Notebook 1",
+		"name": "Dell 1",
+		"price": 1000,
+		"display": "15.6-inch (diagonal) LED-backlit",
+		"storage": "1Tb",
+		"processor": "2.4Ghz Intel I7 with 3Mb shared L3 cache",
+		"memory": "16Gb RAM",
+		"camera": "720p FaceTime HD Camera",
+		"os": "Debian Linux 8.2 Jessie"
+	},
+
+	{
+		"category": "Notebook 2",
+		"name": "Dell 2",
+		"price": 2000,
+		"display": "15.6-inch (diagonal) LED-backlit",
+		"storage": "1Tb",
+		"processor": "2.4Ghz Intel I7 with 3Mb shared L3 cache",
+		"memory": "16Gb RAM",
+		"camera": "720p FaceTime HD Camera",
+		"os": "Debian Linux 8.2 Jessie"
+	},
+
+	{
+		"category": "Notebook 3",
+		"name": "Dell 3",
+		"price": 3000,
+		"display": "15.6-inch (diagonal) LED-backlit",
+		"storage": "1Tb",
+		"processor": "2.4Ghz Intel I7 with 3Mb shared L3 cache",
+		"memory": "16Gb RAM",
+		"camera": "720p FaceTime HD Camera",
+		"os": "Debian Linux 8.2 Jessie"
+	},
+
+	{
+		"category": "Notebook 4",
+		"name": "Dell 4",
+		"price": 4000,
+		"display": "15.6-inch (diagonal) LED-backlit",
+		"storage": "1Tb",
+		"processor": "2.4Ghz Intel I7 with 3Mb shared L3 cache",
+		"memory": "16Gb RAM",
+		"camera": "720p FaceTime HD Camera",
+		"os": "Debian Linux 8.2 Jessie"
+	},
+
+	{
+		"category": "Notebook 5",
+		"name": "Dell 5",
+		"price": 5000,
+		"display": "15.6-inch (diagonal) LED-backlit",
+		"storage": "1Tb",
+		"processor": "2.4Ghz Intel I7 with 3Mb shared L3 cache",
+		"memory": "16Gb RAM",
+		"camera": "720p FaceTime HD Camera",
+		"os": "Debian Linux 8.2 Jessie"
+	},
+
+	{
+		"category": "Notebook 6",
+		"name": "Dell 6",
+		"price": 6000,
+		"display": "15.6-inch (diagonal) LED-backlit",
+		"storage": "1Tb",
+		"processor": "2.4Ghz Intel I7 with 3Mb shared L3 cache",
+		"memory": "16Gb RAM",
+		"camera": "720p FaceTime HD Camera",
+		"os": "Debian Linux 8.2 Jessie"
+	}
+]
